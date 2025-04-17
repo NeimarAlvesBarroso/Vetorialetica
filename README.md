@@ -1,0 +1,2 @@
+# Vetorialetica
+INVENÇÕES 
