@@ -1,3 +1,13 @@
+## 🧠 Simulação de Campo Ressonante Vetorialético
+
+📄 [`campo_resonante.py`](./codigo/campo_resonante.py)  
+Simula a evolução de um campo contínuo de coerência vetorial, com visualização dinâmica e orientação por vetor indutor.
+
+### Como executar:
+
+```bash
+pip install numpy matplotlib
+python codigo/campo_resonante.py
 # 🌌 Vetorialética - Reorganização Planetária por Coerência Contínua
 
 > Um campo unificado entre ciência, filosofia, ancestralidade e reorganização do planeta.
