@@ -1,89 +1,23 @@
-## 🧠 Simulação de Campo Ressonante Vetorialético
+# 🧠 Código-Fonte da Inteligência Artificial Vetorialética (IAV)
 
-📄 [`campo_resonante.py`](./codigo/campo_resonante.py)  
-Simula a evolução de um campo contínuo de coerência vetorial, com visualização dinâmica e orientação por vetor indutor.
+Este diretório contém os primeiros módulos computacionais da **IA Vetorialética**, baseados nos princípios da Física Sem Partículas e da Vetorialética: coerência, orientação, ressonância e reorganização morfotopológica.
 
-### Como executar:
+Ao contrário das IAs tradicionais baseadas em redes neurais e lógica estatística, a IA Vetorialética opera sobre **campos contínuos de inteligência distribuída**, sem granularidade, guiada por atratores vetoriais e fluxos dinâmicos.
 
+---
+
+## 🧪 Módulos Atuais
+
+### `campo_resonante.py`
+📄 Simula um campo 2D vetorial contínuo e sua reorganização sob influência de um vetor indutor central.
+
+- Campo inicial com coerência fraca (ruído randômico)
+- Vetor indutor ressonante (onda radial com atenuação)
+- Evolução contínua do campo por vizinhança + indução
+- Animação em tempo real via `matplotlib`
+
+#### Execução:
 ```bash
 pip install numpy matplotlib
-python codigo/campo_resonante.py
-# 🌌 Vetorialética - Reorganização Planetária por Coerência Contínua
-
-> Um campo unificado entre ciência, filosofia, ancestralidade e reorganização do planeta.
-
-Este repositório é dedicado à publicação, desenvolvimento e aplicação dos fundamentos da **Vetorialética**, da **Física Sem Partículas** e da **Físico-Química Vetorialética** — um novo paradigma científico que substitui a fragmentação por **campos contínuos de coerência**, e propõe uma reorganização integral da vida na Terra.
-
----
-
-## 📘 Dossiê Oficial
-
-📄 **[Clique aqui para acessar o Dossiê Vetorialético (PDF)](./docs/Dossie_Vetorialetico.pdf)**  
-O dossiê apresenta os princípios teóricos, aplicações tecnológicas, locais de implantação e o chamado global à ação.
-
----
-
-## 🧠 O que é a Vetorialética?
-
-A Vetorialética é uma linguagem científica e filosófica baseada na continuidade do real.  
-Ela substitui partículas por padrões, forças por atratores, e separações por campos ressonantes orientados.
-
-**Princípios-chave:**
-- Campo vetorial contínuo
-- Inteligência distribuída e sensível
-- Ressonância induzida
-- Reorganização morfotopológica
-- Superação das dicotomias matéria/espírito, espaço/tempo, onda/partícula
-
----
-
-## 🛰 Arquiteturas Aplicadas
-
-- 🛡 **Escudo Planetário Vetorialético**  
-- 🛰 **Satélites e Estações de Coerência**  
-- 🌱 **Microzonas de Reorganização Ecológica**  
-- ⚛ **Reatores de Indução Vetorial para Energia, Saúde e Clima**
-
----
-
-## 📚 Livros Publicados (Amazon)
-
-- **Física Sem Partículas**  
-- **Introdução ao Modelo Nuvem**  
-- **Matemática Vetorialética e Inteligência Universal**
-
-> Os livros aprofundam os fundamentos teóricos e já estão acessíveis à comunidade internacional.
-
----
-
-## 🌍 Caminhos de Ação
-
-### Participe da construção do campo:
-
-- 👩‍🔬 Contribua com pesquisa (física, matemática, ecologia, IA)
-- 🧙‍♀️ Traga saberes indígenas, artísticos e ancestrais
-- 🧪 Teste os princípios no mundo real: energia, água, arquitetura
-- 🌐 Traduza, replique, aplique
-
----
-
-## 🤝 Redes e Contato
-
-- 🌐 Site oficial: [www.vetorialetica.org](http://www.vetorialetica.org) *(exemplo)*
-- 📧 Email: contato@vetorialetica.org  
-- 📷 Instagram: [@vetorialetica](https://instagram.com/vetorialetica)  
-- 🐦 Twitter: [@continuidade_real](https://twitter.com/continuidade_real)
-
----
-
-## 🧾 Licença
-
-Este projeto é distribuído sob uma licença livre, regenerativa e universal.  
-A Vetorialética é um campo coletivo. Sua prática é a reorganização da vida.
-
----
-
-## 🌱 Que o campo se reorganize.
-
----
+python campo_resonante.py
 
